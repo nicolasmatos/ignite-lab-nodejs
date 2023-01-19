@@ -9,9 +9,9 @@ Projeto desenvolvido durante o ignite lab | Node.JS da Rocketseat, que ocorreu e
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <div align="center">
-  <img src="docs/banner.jpg.jpg" width="1080px" >
+  <img src="docs/banner.jpg" width="1080px" >
 </div>
 
 ---
 
-Feito com 🖤 por [Nicolas Matos](https://github.com/nicolasmatos) 
+Feito com 🖤 por [Nicolas Matos](https://github.com/nicolasmatos)
